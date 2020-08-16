@@ -1,0 +1,40 @@
+.heading_div_class {
+    background-color: red;
+}
+
+.heading_div_class--ascasd {
+    background-color: orange;
+}
+
+.heading_text {
+    /* float: right; */
+}
+
+.display_image {
+    width: 100%;
+    border: 5px dashed red;
+}
+
+.data_table {
+    border: 1px solid black;
+}
+
+/* this class belongs to the paragraph on my page */
+.my_paragraph {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fcfcfc;
+    background-image: url("guitar.jpeg");
+    border-top: 5px solid red;
+    border-bottom: 5px dashed orange;
+    margin: 0px 0px 20px 50px;
+}
+
+.my_paragraph-span1 {
+    padding: 10px;
+}
+
+.my_paragraph-span2 {
+    padding: 30px;
+}
